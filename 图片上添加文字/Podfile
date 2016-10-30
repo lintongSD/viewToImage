@@ -1,0 +1,4 @@
+platform :ios,’8.0’
+target ‘图片上添加文字’ do
+pod 'SDAutoLayout', '~> 1.52'
+end
